@@ -1,0 +1,16 @@
+PODS:
+  - LogEngine (0.1.0)
+
+DEPENDENCIES:
+  - LogEngine (from `../`)
+
+EXTERNAL SOURCES:
+  LogEngine:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LogEngine: 99d70c4e7356c08a6d6320f2e6b7f3476724f80d
+
+PODFILE CHECKSUM: cd26ffd60b57801f65defd3cfab6cc34db85c55f
+
+COCOAPODS: 1.11.1

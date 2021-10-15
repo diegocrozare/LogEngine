@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'LogEngine_Example' do
+  pod 'LogEngine', :path => '../'
+
+  target 'LogEngine_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

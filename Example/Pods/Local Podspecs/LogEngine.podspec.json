@@ -1,0 +1,22 @@
+{
+  "name": "LogEngine",
+  "version": "0.1.0",
+  "summary": "A short description of LogEngine.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/diegocrozare/LogEngine",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "diegocrozare": "crozare.crozare@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/diegocrozare/LogEngine.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LogEngine/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module LogEngine {
+  umbrella header "LogEngine-umbrella.h"
+
+  export *
+  module * { export * }
+}
